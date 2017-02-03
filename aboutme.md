@@ -3,7 +3,6 @@ layout: page
 title: About Me
 subtitle: A short introduction to Jake Van Slyke and his experience with "Software Everywhere!"
 ---
-# about-me
 
 TL:DR: I am Jacob Van Slyke and my interest in software and computers, which started with the prominence of Apple Inc., has led me to become a computer science major at Allegheny College.
 
