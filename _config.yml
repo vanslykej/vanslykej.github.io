@@ -40,7 +40,6 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Some Person
   email: "vanslykej@allegheny.edu"
-  facebook: jake.vanslyke.5  # eg. daattali
   github: vanslykej    # eg. daattali
   twitter: jakevanslyke   # eg. daattali
   instagram: jakevanslyke808
@@ -48,7 +47,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
