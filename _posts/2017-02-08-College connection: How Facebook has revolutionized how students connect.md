@@ -2,7 +2,7 @@
 layout: post
 title: College Connection
 subtitle: How Facebook has revolutionized how students connect
-image: /home/v/vanslykej/fs102S2017/vanslykej.github.io/img/6856181503_5b87b73925_o(1).jpg
+image: /img/6856181503_5b87b73925_o(1).jpg
 ---
 Begin text
 
