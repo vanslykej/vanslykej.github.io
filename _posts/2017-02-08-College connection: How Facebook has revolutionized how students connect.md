@@ -1,7 +1,7 @@
 ---
 layout: post
 title: College Connection
-subtitle: How Facebook has revolutionized how students connect
+subtitle: How Facebook Has Revolutionized How Students Connect
 bigimg: /img/7975205041_74f85a53a9_o.jpg
 ---
 TL;DR: Social networks, and Facebook in particular, are changing the way that students are able to connect and extend their social web.
@@ -12,6 +12,6 @@ This August, my entire world changed when I started my career at Allegheny Colle
 
 Facebook is what ultimately led to me becoming much more comfortable at college and allowed me to meet people that I liked and had a lot in common with. By connecting with people through services such as Messenger and just by adding people as friends, Facebook is a tremendous tool, especially for college students, for networking and meeting people of all types. I joined the official and unofficial Allegheny Class of 2020 groups on Facebook and they allow me to stay connected to what everyone is doing on a regular basis. I also met people through Facebook that would ultimately lead to me joining a fraternity this semester. Coming into college, I did not know a lot about fraternities and I did not think I would really look into it. However, joining has definitely made a huge difference to my college experience thus far, and I could not be happier that Facebook exposed me to this opportunity. Another very useful thing on Facebook is events. Events allows users to create an event and then invite their Facebook friends to attend. This has made life at college so much easier, and it is cool to see your friends and if they are going or not and who was invited.
 
-The underlying point of all of this is that the Internet has dramatically improved our lives and how we do things. Without even realizing it, socializing has become easier and more prominent than ever before. Before the Internet, it would have been much harder for a typically shy person such as myself to get themselves out there. I am confident in stating that college life is completely different now than before the Internet, and for the better. The communication and networking opportunities that the Internet provides is something that I cannot imagine living without, and it has helped me meet some amazing people along the way. 
+The underlying point of all of this is that the Internet has dramatically improved our lives and how we do things. Without even realizing it, socializing has become easier and more prominent than ever before. Before the Internet, it would have been much harder for a typically shy person such as myself to get themselves out there. I am confident in stating that college life is completely different now than before the Internet, and for the better. The communication and networking opportunities that the Internet provides is something that I cannot imagine living without, and it has helped me meet some amazing people along the way.
 
 <a title="3D Social Networking" href="https://flickr.com/photos/86530412@N02/7975205041">3D Social Networking</a> flickr photo by <a href="https://flickr.com/people/86530412@N02">ccPixs.com</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
