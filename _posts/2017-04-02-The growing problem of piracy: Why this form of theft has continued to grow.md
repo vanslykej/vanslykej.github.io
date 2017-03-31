@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Growing Problem of Piracy
+title: Internet Piracy
 subtitle: Why This Form of Theft Is Growing
 bigimg: /img/code.jpg
 ---
