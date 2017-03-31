@@ -6,5 +6,5 @@ bigimg: /img/code.jpg
 ---
 
 TL:DR;
- 
-<small> <a title="MS-DOS Green 3 Underexposed" href="https://flickr.com/photos/kjetikor/8483021009"><img src="https://farm9.static.flickr.com/8105/8483021009_2f383a2e07.jpg" /></a><br /><small><a title="MS-DOS Green 3 Underexposed" href="https://flickr.com/photos/kjetikor/8483021009">MS-DOS Green 3 Underexposed</a> flickr photo by <a href="https://flickr.com/people/kjetikor">kjetikor</a> shared under a
+
+<small> <a title="Source code security plugin" href="https://flickr.com/photos/christiaancolen/20013034763"><img src="https://farm6.static.flickr.com/5623/20013034763_6698363be7.jpg" /></a><br /><small><a title="Source code security plugin" href="https://flickr.com/photos/christiaancolen/20013034763">Source code security plugin</a> flickr photo by <a href="https://flickr.com/people/christiaancolen">Christiaan Colen</a> shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
