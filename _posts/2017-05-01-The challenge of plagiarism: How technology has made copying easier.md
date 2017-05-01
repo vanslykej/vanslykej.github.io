@@ -17,4 +17,4 @@ One solution that I believe would go a long way in the stopping of plagiarism is
 
 <small> <a title="ctrl c, ctrl v" href="https://flickr.com/photos/superk8/4661697632">Source code security plugin</a> flickr photo by <a href="https://flickr.com/people/superk8">superk8nyc</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons (BY-NC-SA) license</a> </small>
 
-Editor, ALLIE GOODRICH Assistant Features. "Technology Makes Cheating Easier." Purdue Exponent. N.p., 03 Sept. 2012. Web. 01 May 2017. <http://www.purdueexponent.org/features/article_66d33fd9-b9e4-5a8e-bb71-33bead3c3f48.html>.
+<small> Editor, ALLIE GOODRICH Assistant Features. "Technology Makes Cheating Easier." Purdue Exponent. N.p., 03 Sept. 2012. Web. 01 May 2017. <http://www.purdueexponent.org/features/article_66d33fd9-b9e4-5a8e-bb71-33bead3c3f48.html>. </small>
